@@ -1,5 +1,4 @@
-Feel-Good Mobile App with Kivy. A mobile app with login and logout function. Users who input vocabulary will get the defintion. Users who input their emotions will get a idiom. 
-
+Feel-Good Mobile App with Kivy. A mobile app with login and logout function. Users who input vocabulary will get the definition. Users who input their emotions will get an idiom.
 
 Attached a .apk file to download and use for an android phone.
 
